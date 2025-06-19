@@ -358,6 +358,8 @@ title:  "Applications"
     in asynchronous mode.
   * [**libjackmm**](http://sourceforge.net/projects/libjackmm)
     is a C++ interface to the jack audio connection kit.
+  * [**jill**](https://github.com/capocasa/jill)
+    is a quick 'n easy jack interface in the Nim programming language
   * [**Praxis Live**](http://www.praxislive.org/)
     is an hybrid visual live programming for creatives,
     for programmers, for students, for tinkerers.
