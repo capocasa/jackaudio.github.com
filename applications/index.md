@@ -507,6 +507,8 @@ title:  "Applications"
     a drum machine.
   * [**LinuxSampler**](http://www.linuxsampler.org/)
     a software audio sampler.
+  * [**Mash**](https://github.com/capocasa/mash)
+    is a headless, very precise virtual MIDI keyboard for Jack.
   * [**Midi Player Pro**](http://www.selasky.org/hans_petter/midistudio)
     is the software you need to be able to play any kind of music
     in seconds with your fingertips. It uses
